@@ -450,7 +450,7 @@ should use `Object.keys` to get an array, sort that array with the built-in Java
 tools, and use the [`{{#each}}`](https://api.emberjs.com/ember/6.3.0/classes/Ember.Templates.helpers/methods/each?anchor=each)
 helper instead.
 
-### Empty Lists
+### Empty Objects
 
 The [`{{#each-in}}`](https://api.emberjs.com/ember/6.3.0/classes/Ember.Templates.helpers/methods/each-in?anchor=each-in)
 helper can have a matching `{{else}}`. The contents of this block will render if
